@@ -7,7 +7,6 @@
 
 <h3 align="left">Portfolio:</h3>
 - 🔭 I’m currently working on [Itaú Shop](https://www.itau.com.br/itau-shop)
-- Futevôlei app - [PLP](https://github.com/gustavo2795/PLP)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
