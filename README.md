@@ -8,7 +8,6 @@
 <h3 align="left">Portfolio:</h3>
 <p>- 🔭 I’m currently working on <a href="https://www.itau.com.br/itau-shop" target="_blank">Itaú Shop</a></p>
 <p>- Futevolei App PLP to manage sports classes <a href="https://github.com/gustavo2795/PLP" target="_blank">PLP</a></p>
-<p>- Futevolei App PLP to manage sports classes <a href="https://github.com/gustavo2795/PLP" target="_blank">PLP</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
